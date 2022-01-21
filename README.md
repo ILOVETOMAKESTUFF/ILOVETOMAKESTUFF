@@ -7,6 +7,7 @@
 I code HTML, learning CSS and JS, and am practicing on making UIs
 Is there anything else?
 That's it!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILOVETOMAKESTUFF&show_icons=true)
 
 <!---
 ILOVETOMAKESTUFF/ILOVETOMAKESTUFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
