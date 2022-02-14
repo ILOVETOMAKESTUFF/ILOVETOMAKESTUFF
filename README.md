@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @ILOVETOMAKESTUFF
-- 👀 I’m interested in coding, mechanisms, math, physics, and artificial intelegence.
-- 🌱 I’m currently learning CSS, HTML5, JavaScript, and Python
-- 💞️ I’m looking to collaborate on web pages
-- 📫 How to reach me: through my Scratch acount. link: scratch.mit.edy/users/I_LOVE_TO_MAKE_STUFF. Pronouns: He, Him, His
-- ⚡ Fun fact: Scratch is now blocked on my chromebook.<br>
-I code HTML, learning CSS and JS, and am practicing on making UIs
-Is there anything else?<br>
+ # 👋 Hi, I’m @ILOVETOMAKESTUFF
+Scratch account: https://scratch.mit.edu/users/I_LOVE_TO_MAKE_STUFF. <br>
+Pronouns: He, Him, His
+- ⚡ I love artificail intelligence, coding, math, physics, simulations, and many more!
+# Languages:
+HTML<br>
+CSS<br>
+JS (still learning!)<br>
+
 That's it!<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILOVETOMAKESTUFF&show_icons=true&theme=dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOVETOMAKESTUFF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
