@@ -3,9 +3,17 @@ Scratch account: https://scratch.mit.edu/users/I_LOVE_TO_MAKE_STUFF. <br>
 Pronouns: He, Him, His
 - ⚡ I love artificail intelligence, coding, math, physics, simulations, and many more!
 # Languages:
+
+# Coding:<br>
 HTML<br>
 CSS<br>
 JS (still learning!)<br>
+Markup<br>
+
+# Speaking:<br>
+English<br>
+Ukrainian<br>
+Russian<br>
 <br>Time Zone: EST (Eastern Standard Time)
 <br>
 
