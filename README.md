@@ -6,9 +6,10 @@ Pronouns: He, Him, His
 HTML<br>
 CSS<br>
 JS (still learning!)<br>
-<br>Time Zone: EST (Eastern Standard Time)<br>
+<br>Time Zone: EST (Eastern Standard Time)
+<br>
 
-That's it!<br>
+That's it!<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILOVETOMAKESTUFF&show_icons=true&theme=dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOVETOMAKESTUFF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>Check <a href="https://ilovetomakestuff.github.io/" target="_blank">my website</a> out!
