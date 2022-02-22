@@ -11,7 +11,7 @@ Pronouns: He, Him, His
 HTML (Hyper-Text Markup Language)<br>
 CSS (Cascading Style Sheets)<br>
 JS (JavaScript)(still learning!)<br>
-Markup (What this is written in, somewhat like HTML)<br>
+Markdown (What this is written in, somewhat like HTML, which is why the files end with (m)ark(d)own)<br>
 
 # Speaking:<br>
 English<br>
