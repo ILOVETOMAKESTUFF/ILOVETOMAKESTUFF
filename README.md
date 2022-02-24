@@ -22,8 +22,7 @@ Russian<br>
 
 # <br>Check <a href="https://ilovetomakestuff.github.io/" target="_blank">my website</a> out!
 <br>
-Fun fact: I don't use IDEs for any of my projects
-<br>
+Fun fact: I don't use IDEs for any of my projects 😎
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILOVETOMAKESTUFF&show_icons=true&theme=dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOVETOMAKESTUFF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
