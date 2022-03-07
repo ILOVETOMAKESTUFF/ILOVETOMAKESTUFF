@@ -1,6 +1,8 @@
  # 👋 Hi, I’m @ILOVETOMAKESTUFF
 Known as I_LOVE_TO_MAKE_STUFF on Scratch
 
+A 12-year-old coder who enjoys making websites and helping others out as much as I can and with as much knowledge that I have about their problem!
+
 <a href="https://scratch.mit.edu/users/I_LOVE_TO_MAKE_STUFF" target="_blank">Scratch acount!</a> <br>
 
 Pronouns: He, Him, His
