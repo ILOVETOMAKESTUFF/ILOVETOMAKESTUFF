@@ -25,8 +25,8 @@ Contact me <a href="https://github.com/ILOVETOMAKESTUFF/ilovetomakestuff.github.
 Fun fact: I don't use IDEs for any of my projects 😎
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILOVETOMAKESTUFF&show_icons=true&theme=dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOVETOMAKESTUFF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOVETOMAKESTUFF&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 ILOVETOMAKESTUFF/ILOVETOMAKESTUFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
