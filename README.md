@@ -25,7 +25,7 @@ Ukrainian<br>
 Russian<br>
 <br>Time Zone: EST (Eastern Standard Time)
 <br>
-Contact me <a href="https://github.com/ILOVETOMAKESTUFF/ilovetomakestuff.github.io/discussions/9">here!</a>
+Contact me <a href="https://github.com/ILOVETOMAKESTUFF/ilovetomakestuff.github.io/discussions/1">here!</a>
 # <br>Check <a href="https://ilovetomakestuff.github.io/" target="_blank">my website</a> out!
 <br>
 Fun fact: I don't use IDEs for any of my projects 😎
