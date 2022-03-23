@@ -10,6 +10,9 @@ Math nerd<br>
 <a href="https://scratch.mit.edu/users/I_LOVE_TO_MAKE_STUFF" target="_blank">Scratch acount!</a> <br>
 
 Pronouns: He, Him, His
+
+Probably the worst coder you'll meet
+
 - ⚡ I love artificail intelligence, coding, math, physics, simulations, and many more!
 # Languages:
 
