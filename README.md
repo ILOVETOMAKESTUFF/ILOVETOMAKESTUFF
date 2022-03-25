@@ -41,3 +41,6 @@ Fun fact: I don't use IDEs for any of my projects 😎
 ILOVETOMAKESTUFF/ILOVETOMAKESTUFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+I got FPC'd once:
+file:///home/chronos/u-20307a467915b755e93d0784a9fd93cd3df96da3/MyFiles/Downloads/Screenshot%202022-03-25%2009.14.24.png
