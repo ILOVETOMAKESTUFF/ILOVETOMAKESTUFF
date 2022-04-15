@@ -1,5 +1,5 @@
  # 👋 Hi, I’m @ILOVETOMAKESTUFF
-Known as I_LOVE_TO_MAKE_STUFF on Scratch
+Known as ISTILLMAKESTUFF on Scratch
 
 A 12-year-old Ukrainian coder who enjoys making websites and helping others out as much as I can and with as much knowledge that I have about their problem!
 I dream about learning C++, but that might never happen because I'm stuck with a ChromeBook and I can't buy a Windows even if I had the money.<br>
