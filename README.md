@@ -7,7 +7,7 @@ I dream about learning C++, but that might never happen because I'm stuck with a
 Future mechanical engineer<br>
 Loves LEGO Technic and complex systems<br>
 Math nerd<br>
-<a href="https://scratch.mit.edu/users/I_LOVE_TO_MAKE_STUFF" target="_blank">Scratch acount!</a> <br>
+<a href="https://scratch.mit.edu/users/ISTILLMAKESTUFF/" target="_blank">Scratch acount!</a> <br>
 
 Pronouns: He, Him, His
 
