@@ -33,6 +33,8 @@ Contact me <a href="https://github.com/ILOVETOMAKESTUFF/ilovetomakestuff.github.
 <br>
 Fun fact: I don't use IDEs for any of my projects 😎
 
+(Edit: I use GitPod, so that's false)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ILOVETOMAKESTUFF&show_icons=true&theme=dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILOVETOMAKESTUFF&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ILOVETOMAKESTUFF)](https://github.com/ryo-ma/github-profile-trophy)
